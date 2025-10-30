@@ -1,0 +1,3 @@
+inventory_system.py:25:80: E501 line too long (81 > 79 characters)
+inventory_system.py:31:80: E501 line too long (84 > 79 characters)
+inventory_system.py:50:80: E501 line too long (81 > 79 characters)
